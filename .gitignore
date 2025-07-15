@@ -29,3 +29,17 @@ dist-ssr
 .env.development.local
 .env.test.local
 .env.production.local 
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Sample data files
+sample-data/
+*.xlsx
+*.xls
+*.csv
+
+# Local development
+.local
